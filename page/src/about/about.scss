@@ -1,0 +1,19 @@
+html, body, p{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  font-family: "微软雅黑";
+}
+
+.main{
+	margin:0.2rem;
+	.title{
+		text-align: center;
+		font-size: 0.2rem;
+	}
+	p{
+		text-indent:2em; 
+		font-size: 0.18rem;
+		line-height: 0.4rem;
+	}
+}
